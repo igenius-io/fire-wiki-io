@@ -11,8 +11,8 @@ var rebootjs = require('reboot-js');
 var rebootConfig = {
     "port" : 7000,
     "env" : "development",
-    "reboot-apps-directory" : "node_modules/lib/apps",
-    "reboot-www-directory" : "node_modules/lib/apps/www",
+    "reboot-apps-directory" : "node_modules/fire-wiki-io/lib/apps",
+    "reboot-www-directory" : "node_modules/fire-wiki-io/lib/apps/www",
     "default-layout" : "layout",
     "default-viewfile" : "index",
     "partials-directory" : "views/partials/",
