@@ -15,7 +15,7 @@ var firewiki = require('fire-wiki-io');
 
 Next run **node server.js** from the command line.
 
-Browse to <http://localhost:7000> and the wiki will create a default home page.**
+Browse to <http://localhost:7000> and the wiki will create a default home page.
 
 To start editing, click on the edit button in the top right, and add in the markdown you require.
 
