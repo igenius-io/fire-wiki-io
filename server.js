@@ -1,1 +1,0 @@
-var firewiki = require('./index');
