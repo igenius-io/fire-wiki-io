@@ -1,4 +1,4 @@
-# fire wiki io
+# FireWiki.io
 Fire wiki is a fully functional wiki with Search, Edit and Linking included (using the default [[ link ]] format).
 
 To get the wiki up and running do the following:
