@@ -1,6 +1,6 @@
 {
   "name": "fire-wiki-io",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "FireWiki.io - Wiki built on markdown (showdown), with file uploads built for NodeJS",
   "main": "index.js",
   "scripts": {
